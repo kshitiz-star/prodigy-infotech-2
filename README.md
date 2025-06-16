@@ -23,6 +23,8 @@ To implement the game, we need to follow the steps listed below:
 * Compare the guess with the random number and provide feedback.
 * Limit the number of attempts using a loop.
 * Handle edge cases (e.g., invalid inputs).
+# Implementation 
+![image alt](https://github.com/kshitiz-star/prodigy-infotech-2/blob/main/Screenshot%202025-06-14%20111312.png?raw=true)
 
 
 
